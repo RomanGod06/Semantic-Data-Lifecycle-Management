@@ -1,0 +1,1 @@
+Notes on Semantic Data Lifecycle Management using Edge NLP and TinyML.
