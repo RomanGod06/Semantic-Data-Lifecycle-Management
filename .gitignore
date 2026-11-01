@@ -1,0 +1,16 @@
+# Environments
+venv/
+env/
+
+# Python Cache
+__pycache__/
+*.pyc
+
+# Local Data and Databases
+data/chroma_storage/
+*.db
+*.sqlite3
+
+# OS Files
+.DS_Store
+Thumbs.db

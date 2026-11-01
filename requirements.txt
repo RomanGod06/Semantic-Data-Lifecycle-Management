@@ -1,0 +1,12 @@
+sentence-transformers
+chromadb
+pandas
+streamlit
+
+fastapi
+uvicorn
+pydantic
+sentence-transformers
+chromadb
+pandas
+streamlit
